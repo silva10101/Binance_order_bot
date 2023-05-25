@@ -2,8 +2,8 @@ import requests
 import hashlib
 import hmac, time
 
-API_KEY='YzTSY98VZK92Fi2IgsbqMJ8Oq2hMVpeTVgeUebbBFUNrBsBLVh1NdUmHNbV6V0sn'
-API_SECRET='d0g9yy4XZnjOcSBWfWcHFywmqIWNwXJqdpXjhoeLGwetAUo3LSPtMhcX5TSynf7c'
+API_KEY=''
+API_SECRET=''
 
 
 def cancel_all_orders():
